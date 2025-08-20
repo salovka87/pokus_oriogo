@@ -1,0 +1,6 @@
+Supplier: ACME Ltd., VAT ID: GB123456789
+Buyer: Client Inc., Main Street 10, London
+Invoice No.: INV-2025-045, Issue date: 2025-08-18, Due date: 2025-09-01
+Item: Subscription, Qty: 1, Unit price: 99.00 GBP
+Subtotal: 99.00 GBP, Tax 20%: 19.80 GBP, Total: 118.80 GBP
+Contact: billing@company.com

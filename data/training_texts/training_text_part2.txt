@@ -1,0 +1,22 @@
+
+0 1 2 3 4 5 6 7 8 9
+
+Kč Kč/ks Kč/h Kč/m² Kč/m³
+€ EUR €/$ €/h
+£ GBP £/h
+$ USD $/h
+¥ JPY
+CHF Fr.
+PLN zł
+SEK kr
+DKK kr
+NOK kr
+RON lei
+HUF Ft
+ISK kr
+
+. , ; : ! ? … · •
+( ) [ ] { } < > / \ | _ - – — ― ‑
+" ' „ “ ” « » ‹ › ‚ ‘ ’
++ − × ÷ = ~ ^ ` @ # & * °
+§ № © ® ™ € μ ¶
